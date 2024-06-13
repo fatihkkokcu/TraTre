@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140145889146",
+    "project_id": "tratre-8feb9",
+    "storage_bucket": "tratre-8feb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140145889146:android:a517a0be728aa3d16b10c3",
+        "android_client_info": {
+          "package_name": "com.tratre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjI4rTMKE2WWOvVhQHxTjOBWSYzR8h7bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
