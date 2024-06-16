@@ -66,4 +66,4 @@ yarn-error.log
 /coverage
 
 # Google API key
-android/app/google-services.json
+/android/app/google-services.json
